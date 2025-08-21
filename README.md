@@ -13,8 +13,8 @@
 
 <h2 align = "center"> 🧩 <em> Perks </em></h2>
 
-- 🛠️ Refactoring the universe
 - ⚡ Optimising cache lines
+- 🛠️ Refactoring the universe
 - 🧵 Thread-safe but not life-safe
 - ☕ Surviving on coffee & dreams :3
 - 🌸 Writing bugs poetically (oops XD)
@@ -25,8 +25,8 @@
 
 <h2 align = "center"> 🌌 <em> Lore </em></h2>
 
-- ☄️ A gamer who carries both creation and destruction.
 - ⚖️ A stray hacker wandering between order and chaos.
+- ☄️ A gamer who carries both creation and destruction.
 - 🏗️ An architect of stray systems, creating yet questioning their essence. 
 
 <p align = "center">
