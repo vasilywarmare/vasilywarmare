@@ -10,7 +10,7 @@
 <h2 align = "center">  🐈 G'day mates, welcome to my hacker den of stray cats 🐾 </h2>
 
 <h2 align = "center"> 🧩 <em> Perks </em></h2>
-<img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "right" width = "80"/>
+<img src = "https://media.giphy.com/media/CTK967cSPFPH5FtwQI/giphy.gif" align = "right" width = "80"/>
 
 - 🛠️ Refactoring the universe
 - 🧵 Thread-safe but not life-safe
@@ -46,8 +46,8 @@
   死ねって気持ちを吞み込んで <br>
   内側からズタズタになる <br>
   血にまみれたこの魂で何をする? <br><br>
-  <img src = "https://media.giphy.com/media/CTK967cSPFPH5FtwQI/giphy.gif" align = "left" width = "80"/>
-  <img src = "https://media.giphy.com/media/CTK967cSPFPH5FtwQI/giphy.gif" align = "right" width = "80"/>
+  <img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "left" width = "80"/>
+  <img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "right" width = "80"/>
   彷徨えるままゆけ <br>
   no paradise for <br>
   stray souls
