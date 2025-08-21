@@ -19,7 +19,7 @@
 - 🌸 Writing bugs poetically (oops XD)
 
 <p align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=1800&center=true&vCenter=true&width=600&height=20&color=F8C8DC&lines=bugs+as+poetry,+or+potentially+as+exploits...+who+knows%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=1800&center=true&vCenter=true&width=600&height=25&color=F8C8DC&lines=bugs+as+poetry,+or+potentially+as+exploits...+who+knows%3F" alt="Typing SVG" />
 </p>
 
 ## 🌌 <em> Lore </em>
@@ -28,7 +28,7 @@
 - ☄️ A gamer who carries both creation and destruction.
 
 <p align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=20&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=20&color=AA0000&lines=A+hacker-philosopher,+wandering+like+an+architect+of+stray+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=25&color=AA0000&lines=A+hacker-philosopher,+wandering+like+an+architect+of+stray+systems." alt="Typing SVG" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ stray souls
 ---
 
 <p align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=18&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=20&color=44d62c&lines=Every+system+has+a+backdoor,+even+the+one+called+reality." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=25&color=44d62c&lines=Every+system+has+a+backdoor,+even+the+one+called+reality." alt="Typing SVG" />
 </p>
 
 <p align = "center">
