@@ -1,8 +1,15 @@
 <p align = "center">
-<img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner01.jpg">
+  <img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner01.jpg">
 </p> 
 
-<h2 align = "center">  🐾 G'day mates, welcome to my hacker den of stray cats 🐈 </h2>
+<p align = "center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3500&pause=600&center=true&vCenter=true&width=500&height=20&color=44d62c&lines=Those+who+stray+are+never+lost." alt="Typing SVG" />
+</p>
+<p align = "center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=20&duration=3800&pause=1200&center=true&vCenter=true&width=500&height=20&color=44d62c&lines=They+are+simply+on+another+system+call." alt="Typing SVG" />
+</p>
+
+<h2 align = "center">  🐈 G'day mates, welcome to my hacker den of stray cats 🐾 </h2>
 
 ## 🧩 <em> Perks </em>
 - 🛠️ Refactoring the universe
@@ -10,15 +17,21 @@
 - ⚡ Optimising cache lines
 - ☕ Surviving on coffee & dreams :3
 - 🌸 Writing bugs poetically (oops XD)
-> ***bugs as poetry, or potentially as exploits... who knows?***
 
----
+<p align = "center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=1200&center=true&vCenter=true&width=600&height=20&color=F8C8DC&lines=bugs+as+poetry,+or+potentially+as+exploits...+who+knows%3F" alt="Typing SVG" />
+</p>
 
 ## 🌌 <em> Lore </em>
 - A stray hacker wandering between order and chaos,
 - An architect of stray systems, creating yet questioning their essence. 
 - A gamer who carries both creation and destruction.
-> ***A hacker-philosopher, wandering like an architect of stray systems.***
+
+<p align = "center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=20&duration=3800&pause=1200&center=true&vCenter=true&width=700&height=20&color=AA0000&lines=A+hacker-philosopher,+wandering+like+an+architect+of+stray+systems." alt="Typing SVG" />
+</p>
+
+---
 
 <h2 align = "center"> 🔮 <em> Verse </em></h2>
 <p align = "center"><em><strong>
@@ -38,10 +51,12 @@ stray souls
 
 ---
 
-> ***Every system has a backdoor, even the one called reality.*** 🐾
+<p align = "center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=1200&center=true&vCenter=true&width=700&height=20&color=44d62c&lines=Every+system+has+a+backdoor,+even+the+one+called+reality." alt="Typing SVG" />
+</p>
 
 <p align = "center">
-<img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner02.jpg">
+  <img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner02.jpg">
 </p>
 
 <!--
