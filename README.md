@@ -23,9 +23,9 @@
 </p>
 
 ## 🌌 <em> Lore </em>
-- A stray hacker wandering between order and chaos,
-- An architect of stray systems, creating yet questioning their essence. 
-- A gamer who carries both creation and destruction.
+- ⚖️ A stray hacker wandering between order and chaos,
+- 🏗️ An architect of stray systems, creating yet questioning their essence. 
+- ☄️ A gamer who carries both creation and destruction.
 
 <p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=20&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=20&color=AA0000&lines=A+hacker-philosopher,+wandering+like+an+architect+of+stray+systems." alt="Typing SVG" />
