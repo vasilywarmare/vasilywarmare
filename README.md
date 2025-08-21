@@ -1,6 +1,6 @@
 <p align = "center">
   <img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner01.jpg">
-</p> 
+</p>
 
 <p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=1800&center=true&vCenter=true&width=500&height=20&color=44d62c&lines=Those+who+stray+are+never+lost." alt="Typing SVG" />
@@ -11,8 +11,9 @@
 
 <h2 align = "center">  🐈 G'day mates, welcome to my hacker den of stray cats 🐾 </h2>
 
-## 🧩 <em> Perks </em>
-- 🛠️ Refactoring the universe
+<h2 align = "center"> 🧩 <em> Perks </em></h2>
+
+- 🛠️ Refactoring the universe 
 - 🧵 Thread-safe but not life-safe
 - ⚡ Optimising cache lines
 - ☕ Surviving on coffee & dreams :3
@@ -22,7 +23,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=1800&center=true&vCenter=true&width=600&height=25&color=F8C8DC&lines=bugs+as+poetry,+or+potentially+as+exploits...+who+knows%3F" alt="Typing SVG" />
 </p>
 
-## 🌌 <em> Lore </em>
+<h2 align = "center"> 🌌 <em> Lore </em></h2>
+
 - ⚖️ A stray hacker wandering between order and chaos,
 - 🏗️ An architect of stray systems, creating yet questioning their essence. 
 - ☄️ A gamer who carries both creation and destruction.
@@ -34,28 +36,35 @@
 ---
 
 <h2 align = "center"> 🔮 <em> Verse </em></h2>
-<p align = "center"><em><strong>
-デキる猫は今日も憂鬱 <br>
-I’m a proud loner, being an edgerunner .. <br><br>
-本当に美しいもののために <br>
-死にたいんだ <br>
-だって生きているだけで <br>
-汚れるから <br>
-死ねって気持ちを吞み込んで <br>
-内側からズタズタになる <br>
-血にまみれたこの魂で何をする? <br><br>
-彷徨えるままゆけ <br>
-no paradise for <br>
-stray souls
-</strong></em></p>
+
+<p align = "center">
+  <img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "left" width = "80"/>
+  <img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "right" width = "80"/>
+  
+  <strong>
+    <em>
+  デキる猫は今日も憂鬱 <br>
+  I’m a proud loner, being an edgerunner .. <br><br>  
+  本当に美しいもののために <br>
+  死にたいんだ <br>
+  だって生きているだけで <br>
+  汚れるから <br>
+  死ねって気持ちを吞み込んで <br>
+  内側からズタズタになる <br>
+  血にまみれたこの魂で何をする? <br><br>
+  彷徨えるままゆけ <br>
+  no paradise for <br>
+  stray souls
+    </em>
+  </strong>
+</p>
+
 
 ---
 
 <p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=25&color=44d62c&lines=Every+system+has+a+backdoor,+even+the+one+called+reality." alt="Typing SVG" />
-</p>
-
-<p align = "center">
+  
   <img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner02.jpg">
 </p>
 
