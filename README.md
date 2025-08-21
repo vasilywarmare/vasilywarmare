@@ -13,9 +13,9 @@
 
 <h2 align = "center"> 🧩 <em> Perks </em></h2>
 
-- 🛠️ Refactoring the universe 
-- 🧵 Thread-safe but not life-safe
+- 🛠️ Refactoring the universe
 - ⚡ Optimising cache lines
+- 🧵 Thread-safe but not life-safe
 - ☕ Surviving on coffee & dreams :3
 - 🌸 Writing bugs poetically (oops XD)
 
@@ -25,9 +25,9 @@
 
 <h2 align = "center"> 🌌 <em> Lore </em></h2>
 
-- ⚖️ A stray hacker wandering between order and chaos,
-- 🏗️ An architect of stray systems, creating yet questioning their essence. 
 - ☄️ A gamer who carries both creation and destruction.
+- ⚖️ A stray hacker wandering between order and chaos.
+- 🏗️ An architect of stray systems, creating yet questioning their essence. 
 
 <p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=1800&center=true&vCenter=true&width=700&height=25&color=AA0000&lines=A+hacker-philosopher,+wandering+like+an+architect+of+stray+systems." alt="Typing SVG" />
