@@ -1,6 +1,4 @@
-<p align = "center">
-  <img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner01.jpg">
-</p>
+<img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner01.jpg"/>
 
 <p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caesar+Dressing&size=18&duration=3800&pause=3000&center=true&vCenter=true&width=500&height=20&color=44d62c&lines=Those+who+stray+are+never+lost." alt="Typing SVG" />
@@ -12,10 +10,11 @@
 <h2 align = "center">  🐈 G'day mates, welcome to my hacker den of stray cats 🐾 </h2>
 
 <h2 align = "center"> 🧩 <em> Perks </em></h2>
+<img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "right" width = "80"/>
 
-- ⚡ Optimising cache lines
 - 🛠️ Refactoring the universe
 - 🧵 Thread-safe but not life-safe
+- ⚡ Optimising cache lines
 - ☕ Surviving on coffee & dreams :3
 - 🌸 Writing bugs poetically (oops XD)
 
@@ -24,6 +23,7 @@
 </p>
 
 <h2 align = "center"> 🌌 <em> Lore </em></h2>
+<img src = "https://media.giphy.com/media/kqNSiotchOmyI/giphy.gif" align = "right" width = "80"/>
 
 - ⚖️ A stray hacker wandering between order and chaos.
 - ☄️ A gamer who carries both creation and destruction.
@@ -33,14 +33,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=3000&center=true&vCenter=true&width=700&height=25&color=AA0000&lines=A+hacker-philosopher,+wandering+like+an+architect+of+stray+systems." alt="Typing SVG" />
 </p>
 
----
-
 <h2 align = "center"> 🔮 <em> Verse </em></h2>
-
 <p align = "center">
-  <img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "left" width = "80"/>
-  <img src = "https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" align = "right" width = "80"/>
-  
   <strong>
     <em>
   デキる猫は今日も憂鬱 <br>
@@ -52,6 +46,8 @@
   死ねって気持ちを吞み込んで <br>
   内側からズタズタになる <br>
   血にまみれたこの魂で何をする? <br><br>
+  <img src = "https://media.giphy.com/media/CTK967cSPFPH5FtwQI/giphy.gif" align = "left" width = "80"/>
+  <img src = "https://media.giphy.com/media/CTK967cSPFPH5FtwQI/giphy.gif" align = "right" width = "80"/>
   彷徨えるままゆけ <br>
   no paradise for <br>
   stray souls
@@ -59,14 +55,11 @@
   </strong>
 </p>
 
-
----
-
 <p align = "center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=3000&center=true&vCenter=true&width=700&height=25&color=44d62c&lines=Every+system+has+a+backdoor,+even+the+one+called+reality." alt="Typing SVG" />
-  
-  <img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner02.jpg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Macondo+Swash+Caps&size=22&duration=3800&pause=3000&center=true&vCenter=true&width=700&height=25&color=44d62c&lines=Every+system+has+a+backdoor,+even+the+one+called+reality." alt="Typing SVG" /> 
 </p>
+
+<img src = "https://raw.githubusercontent.com/vasilywarmare/vasilywarmare/refs/heads/main/ZeroTwoBanner02.jpg">
 
 <!--
 **vasilywarmare/vasilywarmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
